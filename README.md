@@ -1,7 +1,5 @@
 # Stellenbosch-University-Python-Workshop
-# SCHOOL OF DATA SCIENCE AND COMPUTATIONAL THINKING
-
-
+SCHOOL OF DATA SCIENCE AND COMPUTATIONAL THINKING
 
 More data is being generated and stored than ever before. We generate data through various
 processes. 
@@ -32,5 +30,3 @@ Numpy
 
 • Practical exercises and real-world examples
 
-
-Thank you. 
